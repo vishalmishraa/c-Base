@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5E3C622D-C5B8-4F5F-802D-3417F0175D71"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7824703-65F4-4D71-A06A-805786AB6EAB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StudentExerciseRational/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "rational(p, q)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B7824703-65F4-4D71-A06A-805786AB6EAB - 632e88e52c484e1b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rational::rational(int, int)"
+                  moduleName = "StudentExerciseRational"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishalmishra/Desktop/IMP/CODE%20of%20OOPS/09/StudentExerciseRational/StudentExerciseRational/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  uuid = "B7824703-65F4-4D71-A06A-805786AB6EAB - 632e88e52c484e1b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rational::rational(int, int)"
+                  moduleName = "StudentExerciseRational"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vishalmishra/Desktop/IMP/CODE%20of%20OOPS/09/StudentExerciseRational/StudentExerciseRational/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "18">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
